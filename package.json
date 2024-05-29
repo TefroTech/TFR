@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "local":"chmod +x ./local_ledger.sh && ./local_ledger.sh",
+        "mainnet":"chmod +x ./ledger.sh && ./ledger.sh"
+    }
+}
